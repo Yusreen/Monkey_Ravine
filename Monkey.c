@@ -1,8 +1,9 @@
 /*
-//Yusreen Shah, A00415678`
+//Yusreen Shah
 //Sources:GeeksforGeeks, slides, and assignment 2
 //With Starvation  
-//Compile: gcc Que2.5.c -lpthread
+//Compile: gcc Monkey.c -lpthread
+Note: it is supposed to go infinitely.
 **/
 #include <pthread.h>
 
